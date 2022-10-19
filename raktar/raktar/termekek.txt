@@ -1,0 +1,10 @@
+2;Akksis fúró
+3;Sövényvágó
+4;eBike akkumulátor
+1;pingvin
+5;szánkó
+6;kalapács
+7;fűrész
+8;kés
+9;villa
+10;olló

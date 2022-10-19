@@ -1,0 +1,17 @@
+C:\Users\kovdo\source\repos\raktar\raktar\bin\Debug\raktar.exe.config
+C:\Users\kovdo\source\repos\raktar\raktar\bin\Debug\raktar.exe
+C:\Users\kovdo\source\repos\raktar\raktar\bin\Debug\raktar.pdb
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.csproj.AssemblyReference.cache
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.Form1.resources
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.Form2.resources
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.Properties.Resources.resources
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.csproj.GenerateResource.cache
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.csproj.CoreCompileInputs.cache
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.exe
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.pdb
+C:\Users\kovdo\source\repos\raktar\raktar\bin\Debug\User.txt
+C:\Users\kovdo\source\repos\raktar\raktar\bin\Debug\termekek.txt
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.Form3.resources
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.Form4.resources
+C:\Users\kovdo\source\repos\raktar\raktar\obj\Debug\raktar.Form5.resources
